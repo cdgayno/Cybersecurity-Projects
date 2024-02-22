@@ -7,3 +7,5 @@ WIN GPO is a brief walk through of adjusting a couple Group Policy Objects
 WIN GUI AD is installing Active Directory through the Windows GUI
 
 WIN PS AD is installing Active Directory using powershell
+
+Zoom 13FEB Vulnerability Exec Summary
